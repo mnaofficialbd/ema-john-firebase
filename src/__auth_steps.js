@@ -1,4 +1,5 @@
 /**
+ * Firebase Authentication Steps:
  * 1. Create a new firebase project in console.firebase.google.com
  * 2. npm install firebase
  * 3. create firebase.init.js and input getAuth to export auth
@@ -8,15 +9,13 @@
  * 7. npm install --save react-firebase-hooks
  * 8. useCreateUserWithEmailAndPassword from react-firebase-hooks
  * 9. if user user is created redirect to the expected page.
- * 10. useSignInWithEmailAndPassword for signIn
- * 
+ * 10. useSignInWithEmailAndPassword for Login
+ * 11. Create RequireAuth component ==> check user exists also tract user location.
+ * 12. In route wrap protected component by using Require Auth component.
 */
 
-
-
-
 /**
- * Hosting steps:
+ * Firebase Hosting steps:
  * 1. npm install -g firebase-tools
  * 2. firebase login
  * 3. firebase init
