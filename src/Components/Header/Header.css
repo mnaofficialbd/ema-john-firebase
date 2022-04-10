@@ -1,0 +1,26 @@
+.header{
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+
+    /* use this style for navbar fix:===
+    position: fixed; 
+    z-index: 9999; 
+    width: 80%;
+     */
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 36px;
+}
+
+.header a:hover{
+    color: orange;
+}
