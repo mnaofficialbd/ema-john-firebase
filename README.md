@@ -1,6 +1,6 @@
 ## EMA JOHN SHOPPING WEBSITE
 #### This is practice Repository. Using React-Router and firebase authentication...
-### Live project link:  
+### Live project link:  https://ema-john-7d367.web.app/
 
 
 
