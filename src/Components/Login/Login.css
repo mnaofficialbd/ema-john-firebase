@@ -30,13 +30,29 @@
 }
 .form-submit{
     width: 415px;
-    background: #FF99004D;
+    background: #ff990056;
     height: 55px;
     border-radius: 5px;
     border: none;
     font-size: 20px;
+    cursor: pointer;
 }
+    
+.form-submit:hover{
+    background: #ff99008a;
+}
+
 .form-link{
     text-decoration: none;
     color: #ff9900;
+}
+.google-login{
+    width: 415px;
+    background: #ffffff;
+    border: 1px solid #95A0A7;
+    height: 55px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
 }
