@@ -1,10 +1,14 @@
 /**
- * 1. Create a new project in console.google.com
+ * 1. Create a new firebase project in console.firebase.google.com
  * 2. npm install firebase
  * 3. create firebase.init.js and input getAuth to export auth
  * 4. Firebase settings > Authentication > enable Email and password auth
- * 5. 
- * 6. 
+ * 5. Create Login, SignUp component, setup route. 
+ * 6. attach from field handle and form submit handle
+ * 7. npm install --save react-firebase-hooks
+ * 8. 
+ * 9. 
+ * 10. 
  * 
 */
 
